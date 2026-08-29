@@ -1,6 +1,6 @@
 # Playwright&Python-Loginpage
 
-Playwright smoke tests for the authorized Rahul Shetty Academy / Teachable passwordless login page.
+Playwright smoke tests for the authorized Teachable passwordless login page.
 
 ## Setup
 
